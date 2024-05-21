@@ -13,7 +13,7 @@ I'm a Senior Full-stack Developer!
 - ❓ You can ask me anything about Javascript framework and relative technologies
   
 
-- ⚡ I've been a developer for over 10 years.
+- ⚡ I've been a developer for over 8 years.
   
 
 <br/>  
