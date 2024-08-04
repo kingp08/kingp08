@@ -222,10 +222,10 @@ I'm a Senior Full-stack Developer!
 
 ## Top Project Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smashing9&layout=compact&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kingp08&layout=compact&theme=midnight-purple)
 
 ## Stats
 
-![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=smashing9&theme=midnight-purple)
+![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=kingp08&theme=midnight-purple)
 
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smashing9&theme=midnight-purple&show_icons=true) -->
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kingp08&theme=midnight-purple&show_icons=true) -->
