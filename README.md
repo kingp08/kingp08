@@ -210,7 +210,7 @@ I'm a Senior Full-stack Developer!
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" width="40" height="40"/> 
 </a>
 
-## Stats
+<!-- ## Stats -->
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kingp08&layout=compact&theme=midnight-purple) -->
 <!-- ![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=kingp08&theme=midnight-purple) -->
