@@ -12,8 +12,6 @@ I'm a Senior Full-stack Developer!
 
 - ❓ You can ask me anything about Javascript framework and relative technologies
 
-<br/>  
-
 
 ## Skill Sets
 <table><tr><td valign="top" width="50%">
