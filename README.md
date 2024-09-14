@@ -4,7 +4,7 @@
 I'm a Senior Full-stack Developer!
 ------------------------------------
 
-- 🔭 I’m currently working on Blockchain, AI, Python and Next.js in depth.
+- 🔭 I’m currently working on Blockchain, AI and Python in depth.
   
 
 - 🌱 I've developed dozens of large-scale projects and I love being involved in community projects.
